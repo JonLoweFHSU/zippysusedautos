@@ -1,6 +1,10 @@
+
 <footer>
-    <div class="container">
-        <p>&copy; <?php echo date("Y"); ?> Zippy Used Autos. All rights reserved.</p>
-        <p><a href="index.php">Home</a></p>
-    </div>
+<h1 id="h1-f">Zippy Autos</h1>
+
+<p id="footer-m">11070 Wiles Road Coral Springs, FL, 33076 - Tel: 954.753.8667</p>
+
 </footer>
+</body>
+
+</html>
